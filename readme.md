@@ -57,15 +57,6 @@ We would like to express our gratitude to the developers and contributors of the
 
 ## Contact
 
-If you have any questions, feedback, or suggestions regarding the NeatLabs Rockin' Redactor, please feel free to contact us at [your email address]. We appreciate your input and strive to continuously improve the program to meet the needs of our users.
+If you have any questions, feedback, or suggestions regarding the NeatLabs Rockin' Redactor, please feel free to contact us. We appreciate your input and strive to continuously improve the program to meet the needs of our users.
 
 Happy redacting and stay secure!
-```
-
-This README.md file provides a comprehensive overview of your NeatLabs Rockin' Redactor program, including its features, installation instructions, usage guidelines, and other relevant information. It also includes sections for contributing, licensing, acknowledgements, and contact details.
-
-Feel free to customize the content based on your specific program details and preferences. You can also add additional sections or modify the existing ones to better suit your needs.
-
-Remember to replace `[your email address]` with your actual contact email address.
-
-I hope this README.md file helps you effectively communicate the purpose, features, and usage of your NeatLabs Rockin' Redactor program to the GitHub community!
